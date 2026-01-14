@@ -1,0 +1,172 @@
+Uri: https://powerstudy.site/
+File Name: C:\Downloaded Web Sites\powerstudy.site\index.htm
+Content Type: text/html
+
+Uri: https://powerstudy.site/about
+File Name: C:\Downloaded Web Sites\powerstudy.site\about.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/android-chrome-512x512.png
+File Name: C:\Downloaded Web Sites\powerstudy.site\android-chrome-512x512.png
+Content Type: image/png
+
+Uri: https://powerstudy.site/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\powerstudy.site\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://powerstudy.site/assets/img/descriptionHeader.svg
+File Name: C:\Downloaded Web Sites\powerstudy.site\assets\img\descriptionHeader.svg
+Content Type: image/svg+xml
+
+Uri: https://powerstudy.site/auth
+File Name: C:\Downloaded Web Sites\powerstudy.site\auth-1.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/auth?toast=You+aren't+logged+in!
+File Name: C:\Downloaded Web Sites\powerstudy.site\auth.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/cdn-cgi/content?id=8OwpANick5B2yx8XfvYFLJtgoh_kCLPFn2tPVk3HtVE-1768372087.127397-1.0.1.1-5SXSDoHoSRejt0oGxQvTkt04fIhU6InI8wL7jobH4A8
+File Name: C:\Downloaded Web Sites\powerstudy.site\cdn-cgi\content-2.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/cdn-cgi/content?id=DIU2UratDc4cIwSlzW67s_LugbRYXhIZI93cLgJnXGI-1768372088.2773614-1.0.1.1-b_dXSECR77j1CDCgedQCLokAemGXc0iDxV5Ma3w2Usw
+File Name: C:\Downloaded Web Sites\powerstudy.site\cdn-cgi\content-3.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/cdn-cgi/content?id=eSMb7noe7jxzPd_GvG1jLBrWsgTHD1DPNeUO8KkF9Dw-1768372128.8174958-1.0.1.1-lrtFcfMwMBKhMAnfyI8q4kxDuJpRcr_ccRtq1N2w5wM
+File Name: C:\Downloaded Web Sites\powerstudy.site\cdn-cgi\content-6.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/cdn-cgi/content?id=EzhnOSLLhr1tfh7ZCpPvTF4uILGW5XYOc7pVqgkkNgQ-1768371923.2364151-1.0.1.1-Gpc83R5R2K0WghY.RORCATKcaeSG2_l5kOp6hLqPJFE
+File Name: C:\Downloaded Web Sites\powerstudy.site\cdn-cgi\content.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/cdn-cgi/content?id=Nm8rt5N_QgP.f0ekFXhfjWzWk4nV9loAxwm8kZXE2Sc-1768372116.2174022-1.0.1.1-n9taYcEjSPARiZp1BI5byRIKRkZRSe6Z.MzRjH4ROfY
+File Name: C:\Downloaded Web Sites\powerstudy.site\cdn-cgi\content-5.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/cdn-cgi/content?id=z0CWCYo5HAsHeztcb8pArCLATxf1_Fzp6FLlGZg20oY-1768372090.5775445-1.0.1.1-.TMZyFON0A.Vn_OKHALrEJb9iiRdiLluAg3jprN6j8I
+File Name: C:\Downloaded Web Sites\powerstudy.site\cdn-cgi\content-4.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/cdn-cgi/content?id=ztE_gbAKfUNnaX_CF8hVhrfMarCXWLx2yhynmawq_UA-1768372062.0832748-1.0.1.1-e67Z76xn.vdAxcbEMQNPBi4XZqgt_LAgewd0tt9N7VM
+File Name: C:\Downloaded Web Sites\powerstudy.site\cdn-cgi\content-1.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/favicon.ico
+File Name: C:\Downloaded Web Sites\powerstudy.site\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://powerstudy.site/privacy-policy
+File Name: C:\Downloaded Web Sites\powerstudy.site\privacy-policy.html
+Content Type: text/html
+
+Uri: https://powerstudy.site/site.webmanifest
+File Name: C:\Downloaded Web Sites\powerstudy.site\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://powerstudy.site/study
+File Name: C:\Downloaded Web Sites\powerstudy.site\study
+Content Type: 
+
+Uri: https://powerstudy.site/terms
+File Name: C:\Downloaded Web Sites\powerstudy.site\terms
+Content Type: text/html
+
+Uri: https://powerstudy.site/_next/static/chunks/05dde09ea0f9894d.css
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\05dde09ea0f9894d.css
+Content Type: text/css
+
+Uri: https://powerstudy.site/_next/static/chunks/177f88d13b4ea36e.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\177f88d13b4ea36e.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/17da879e302d0c97.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\17da879e302d0c97.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/1a476e30dee46234.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\1a476e30dee46234.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/227db02b0559b2e0.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\227db02b0559b2e0.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/3f09fc79b35dae08.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\3f09fc79b35dae08.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/46107077bc8eb4da.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\46107077bc8eb4da.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/4b464744f44d5dc7.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\4b464744f44d5dc7.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/74b829800ebfa653.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\74b829800ebfa653.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/7dd872cfb010cd4a.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\7dd872cfb010cd4a.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/a6dad97d9634a72d.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\a6dad97d9634a72d.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/a78d7f20d2348cf9.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\a78d7f20d2348cf9.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/e9bb189c1601cd10.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\e9bb189c1601cd10.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/eb3b06bac6b9f9c4.css
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\eb3b06bac6b9f9c4.css
+Content Type: text/css
+
+Uri: https://powerstudy.site/_next/static/chunks/ff1a16fafef87110.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\ff1a16fafef87110.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/chunks/turbopack-a54ee737f7541b13.js
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\chunks\turbopack-a54ee737f7541b13.js
+Content Type: application/javascript
+
+Uri: https://powerstudy.site/_next/static/media/1bffadaabf893a1e-s.7cd81963.woff2
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\media\1bffadaabf893a1e-s.7cd81963.woff2
+Content Type: font/woff2
+
+Uri: https://powerstudy.site/_next/static/media/2bbe8d2671613f1f-s.76dcb0b2.woff2
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\media\2bbe8d2671613f1f-s.76dcb0b2.woff2
+Content Type: font/woff2
+
+Uri: https://powerstudy.site/_next/static/media/2c55a0e60120577a-s.2a48534a.woff2
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\media\2c55a0e60120577a-s.2a48534a.woff2
+Content Type: font/woff2
+
+Uri: https://powerstudy.site/_next/static/media/5476f68d60460930-s.c995e352.woff2
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\media\5476f68d60460930-s.c995e352.woff2
+Content Type: font/woff2
+
+Uri: https://powerstudy.site/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\media\83afe278b6a6bb3c-s.p.3a6ba036.woff2
+Content Type: font/woff2
+
+Uri: https://powerstudy.site/_next/static/media/9c72aa0f40e4eef8-s.18a48cbc.woff2
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\media\9c72aa0f40e4eef8-s.18a48cbc.woff2
+Content Type: font/woff2
+
+Uri: https://powerstudy.site/_next/static/media/ad66f9afd8947f86-s.7a40eb73.woff2
+File Name: C:\Downloaded Web Sites\powerstudy.site\_next\static\media\ad66f9afd8947f86-s.7a40eb73.woff2
+Content Type: font/woff2
+
